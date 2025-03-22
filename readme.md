@@ -6,7 +6,8 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-**A public log of my progress through web development.**  
+**A public log of my progress through web development.[Dr. Angela Yu's The Complete Full-Stack Web Development Bootcamp
+](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=KEEPLEARNING).**  
 Join me as I build projects, explore frameworks, and sharpen my frontend and backend skills.
 
 ---
