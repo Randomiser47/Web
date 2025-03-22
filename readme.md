@@ -1,101 +1,53 @@
-# Web Development Bootcamp - Solutions by Hassaan
+# 🌐 My Web Development Learning Journey
 
-## About This Repository
+[![Progress](https://img.shields.io/badge/Progress-Ongoing-orange)](https://github.com/your-username/learn-web)
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains my personal solutions to the exercises and projects from **The Complete Web Development Bootcamp**, taught by **Dr. Angela Yu** and offered by **The App Brewery**. 
-
-All solutions in this repository are entirely my own work, demonstrating my understanding and implementation of the concepts covered in the course.
-
-## Course Overview
-
-- **Instructor:** Dr. Angela Yu
-- **Platform:** The App Brewery ([www.appbrewery.com](https://www.appbrewery.com))
-- **Duration:** 12 Weeks
-- **Course Fee:** $18,000
-
-## Topics Covered
-
-### Web Development Fundamentals
-- How websites work (HTML, CSS, JavaScript)
-- How the internet works
-- Git, GitHub, and version control
-- Debugging and troubleshooting skills
-
-### HTML5
-- HTML structure, tags, and best practices
-- Creating lists, images, links, and multi-page websites
-
-### CSS3
-- Styling with CSS selectors and properties
-- CSS Box Model, positioning, and responsiveness
-- Flexbox and Grid for layout design
-
-### Bootstrap
-- Using Bootstrap for rapid UI development
-- Bootstrap grid system and components
-
-### Web Design Principles
-- UI/UX fundamentals
-- Color theory, typography, and user attention management
-
-### JavaScript (ES6+)
-- Variables, functions, arrays, and objects
-- Higher-order functions and array methods (map, filter, reduce)
-- Object-oriented programming in JavaScript
-
-### Document Object Model (DOM)
-- Traversing and manipulating the HTML document
-- Separation of concerns and coding best practices
-
-### React.js
-- Component-based development
-- Props, state management, hooks, and conditional rendering
-
-### The Unix Command Line
-- Basic bash commands
-- File and folder manipulation via terminal
-
-### Git, GitHub, and Version Control
-- Git workflows, branching, merging, and collaboration
-
-### Node.js
-- Server-side JavaScript and npm package management
-
-### Express.js
-- RESTful APIs, middleware, and routing
-
-### APIs
-- HTTP methods, API calls, authentication, and data formats
-
-### EJS (Embedded JavaScript)
-- Server-side templating with EJS
-
-### Databases
-- SQL, PostgreSQL, and relational database design
-- CRUD operations and database joins
-
-### Deployment
-- Hosting websites with GitHub Pages and Heroku
-- Deploying databases with MongoDB Atlas
-
-### RESTful API Development
-- Creating APIs with Express and MongoDB
-- Implementing CRUD operations
-
-### Authentication and Security
-- User authentication with Passport.js
-- Hashing, salting, sessions, and OAuth 2.0
-
-### Web3 & Blockchain Development
-- Smart contracts and blockchain applications
-- Deploying personal projects on a blockchain
-
-## Disclaimer
-This repository is for educational purposes only. The course content belongs to **Dr. Angela Yu** and **The App Brewery**. My solutions are independently written to reinforce my learning and demonstrate my understanding.
-
-## Contact
-For any questions, feel free to connect!
+**A public log of my progress through web development.**  
+Join me as I build projects, explore frameworks, and sharpen my frontend and backend skills.
 
 ---
 
-### 🚀 Happy Coding!
+## 📌 **Disclaimer & Attribution**
+> This repository documents my personal learning journey in web development.
+> - **Project ideas/briefs**: Inspired by various sources and challenges  
+> - **Code implementations**: My original solutions  
+> - **Notes/Explanations**: My personal understanding  
+> *Not affiliated with any specific course or instructor.*
+
+## 📌 **Web Development Roadmap Overview**
+
+### **Phase 1: Fundamentals**
+| Focus Area          | Key Topics                                       | Mini-Projects               |
+|--------------------|------------------------------------------------|-----------------------------|
+| HTML & CSS        | Semantic HTML, Flexbox, Grid, Responsive Design | Personal Portfolio, Landing Page |
+| JavaScript Basics | Variables, Functions, DOM Manipulation          | Interactive To-Do List      |
+| Git & GitHub      | Version Control, Branching, Pull Requests       | Open Source Contributions   |
+
+### **Phase 2: Frontend Development**
+| Focus Area      | Key Topics                              | Projects                   |
+|---------------|--------------------------------------|---------------------------|
+| Advanced JS   | ES6+, Async/Await, Fetch API         | Weather App, Quiz App     |
+| React         | Components, Hooks, State Management  | Task Manager App          |
+| UI Libraries  | Tailwind, Bootstrap, Material UI     | Styled Portfolio Website  |
+
+### **Phase 3: Backend & Full Stack**
+| Focus Area      | Key Topics                           | Capstone Projects         |
+|---------------|-----------------------------------|--------------------------|
+| Node.js       | Express.js, APIs, Authentication  | Full-Stack Blog App      |
+| Databases     | MongoDB, SQL, Firebase            | User Authentication System |
+| Deployment    | Hosting, CI/CD, Docker, AWS       | Live Deployed App        |
+
+## 🚀 **Key Features**
+- **Hands-on Projects**: Real-world applications built from scratch
+- **Full-Stack Development**: Both frontend and backend expertise
+- **Best Practices**: Clean code, accessibility, and performance optimization
+
+## 💻 **Learn along with me**
+git clone https://github.com/your-username/learn-web.git
+## Start with the basics:
+cd learn-web/fundamentals
+
