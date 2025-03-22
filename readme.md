@@ -13,11 +13,12 @@ Join me as I build projects, explore frameworks, and sharpen my frontend and bac
 ---
 
 ## 📌 **Disclaimer & Attribution**
-> This repository documents my personal learning journey in web development.
-> - **Project ideas/briefs**: Inspired by various sources and challenges  
-> - **Code implementations**: My original solutions  
+> This repository documents my personal journey through Dr. Angela Yu's excellent [Dr. Angela Yu's The Complete Full-Stack Web Development Bootcamp
+](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=KEEPLEARNING).  
+> - **Project ideas/briefs**: From the course curriculum  
+> - **Code implementations**: My original solutions 
 > - **Notes/Explanations**: My personal understanding  
-> *Not affiliated with any specific course or instructor.*
+> *Not affiliated with/instructors of the original course.*
 
 ## 📌 **Web Development Roadmap Overview**
 
