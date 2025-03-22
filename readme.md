@@ -49,7 +49,7 @@ Join me as I build projects, explore frameworks, and sharpen my frontend and bac
 - **Best Practices**: Clean code, accessibility, and performance optimization
 
 ## 💻 **Learn along with me**
-git clone https://github.com/your-username/learn-web.git
-## Start with the basics:
-cd learn-web/fundamentals
+Clone my repo
+## Start with the basics
+
 
